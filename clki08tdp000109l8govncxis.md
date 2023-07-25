@@ -4,6 +4,7 @@ seoTitle: "Java Servlets"
 datePublished: Tue Jul 25 2023 07:58:15 GMT+0000 (Coordinated Universal Time)
 cuid: clki08tdp000109l8govncxis
 slug: java-servlets
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690274247012/dfdc5e7d-45dd-4578-a361-535d7cc618e6.png
 tags: java, servlet, java-servlet
 
 ---
